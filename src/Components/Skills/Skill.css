@@ -1,0 +1,82 @@
+
+.parent_div_Skills{
+height: 100vh;
+display: flex;
+flex-direction: column;
+}
+.parent_div_Skills h2{
+    margin-top: 3.8rem;
+    color: rgb(132, 78, 236);
+    font-weight: bold;
+    font-family: "Open Sans";
+}
+.skill_desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;   
+  }
+  .card_title-1{
+      display: flex;
+      flex-direction: row;
+      background: url("../../Assets//Card-1.jpg");
+      background-position: center;
+        background-size: cover;
+      width: 85%;
+      justify-content: space-between;
+      align-items: center;
+      height: 130px;
+      margin-top: 20px;
+      box-shadow: 2px 2px 4px rgb(226, 226, 226);
+  }
+  .card_title-1 p{
+      text-align: start;
+      margin-left: 19px;
+      font-family: "Open Sans";
+      font-weight: 600;
+      word-spacing: 0.35rem;
+      font-size: 19px;
+    }
+    .card_title-2{
+        display: flex;
+        flex-direction: row;
+        background: url("../../Assets//Card-2.jpg");
+        background-position: center;
+        background-size: cover;
+        width: 85%;
+        justify-content: space-between;
+        align-items: center;
+        height: 130px;
+        margin-top: 20px;
+        box-shadow: 2px 2px 4px rgb(226, 226, 226);
+    }
+    .card_title-2 p{
+        text-align: start;
+        margin-left: 19px;
+        font-family: "Open Sans";
+        font-weight: 600;
+        word-spacing: 0.35rem;
+        font-size: 19px;
+      }
+      .card_title-3{
+        display: flex;
+        flex-direction: row;
+        background: url("../../Assets//Card-3.jpg");
+        background-position: center;
+        background-size: cover;
+        width: 85%;
+        justify-content: space-between;
+        align-items: center;
+        height: 130px;
+        margin-top: 20px;
+        box-shadow: 2px 2px 4px rgb(226, 226, 226);
+    }
+    .card_title-3 p{
+        text-align: start;
+        margin-left: 19px;
+        font-family: "Open Sans";
+        font-weight: 600;
+        word-spacing: 0.35rem;
+        font-size: 19px;
+      }
+      
